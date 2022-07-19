@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-<img src="images/bilibili-icon.png" alt="B站">[B站](https://space.bilibili.com/394214012)
-<img src="images/爱发电-icon.png" alt="爱发电">[爱发电](https://afdian.net/@napori)
+<img src="images/bilibili-icon.png" (https://space.bilibili.com/394214012) alt="B站">
+<img src="images/爱发电-icon.png" (https://afdian.net/@napori) alt="爱发电">
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
