@@ -4,6 +4,23 @@ You can use the [editor on GitHub](https://github.com/Sasakiyy/symmetrical-octo-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### 预览
+<link rel="stylesheet" href="skinviewer.css">
+<script src="skinviewer.js"></script>
+
+<div class="my-custom-skinviewer" width='600px'></div>
+
+<script>
+  const container = document.querySelector('.my-custom-skinviewer');
+  const skinViewer = new SkinViewer({ container });
+</script>
+.my-custom-skinviewer > div {
+    transform: scale(0.5);
+}
+<link rel="stylesheet" href="skinviewer-animation.css">
+
+<div class="my-custom-skinviewer d-skin-aciton-rotate" width='600px'></div>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
