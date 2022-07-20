@@ -4,5 +4,6 @@
 [<img src="https://img.shields.io/badge/爱发电-Napori-8C5C9D">](https://afdian.net/@napori)
 
 ### 皮肤
-[<img src="https://wwtlm-my.sharepoint.com/:i:/g/personal/yokaze_wwtlm_onmicrosoft_com/EfTXsUK-90pOsklxUyUN_1gBzpQcJ1TkhoJs6615KchV6Q?e=8Ue2IP">]
-[预览](https://sasakiyy.github.io/mc-skinviewer/test/)
+![This is an image](/../main/img/001.png)
+
+[**预览**](https://sasakiyy.github.io/mc-skinviewer/test/)
