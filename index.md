@@ -1,4 +1,4 @@
-## Welcome to GitHub Page
+## Welcome to GitHub Pages
 
 [<img src="https://img.shields.io/badge/QQ-2072223641-00687C">](https://qm.qq.com/cgi-bin/qm/qr?k=jpYvlt9u_da-eOtYz6MyMpoFaKay9oMw&noverify=0)
 [<img src="https://img.shields.io/badge/B站-NaporiYayo-F090B4">](https://space.bilibili.com/394214012)
