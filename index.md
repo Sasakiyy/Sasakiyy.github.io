@@ -1,7 +1,7 @@
 ## Welcome to GitHub Page
 
-[https://img.shields.io/badge/B站-NaporiYayo-F090B4](https://space.bilibili.com/394214012)
-[https://img.shields.io/badge/爱发电-Napori-8C5C9D](https://afdian.net/@napori)
+[Image](https://img.shields.io/badge/B站-NaporiYayo-F090B4)(https://space.bilibili.com/394214012)
+[Image](https://img.shields.io/badge/爱发电-Napori-8C5C9D)(https://afdian.net/@napori)
 
 ### Markdown
 
