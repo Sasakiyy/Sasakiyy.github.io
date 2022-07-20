@@ -3,6 +3,8 @@
 [<img src="https://img.shields.io/badge/B站-NaporiYayo-F090B4">](https://space.bilibili.com/394214012)
 [<img src="https://img.shields.io/badge/爱发电-Napori-8C5C9D">](https://afdian.net/@napori)
 
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2072223641&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2072223641:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
