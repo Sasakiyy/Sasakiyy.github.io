@@ -4,6 +4,6 @@
 [<img src="https://img.shields.io/badge/爱发电-Napori-8C5C9D">](https://afdian.net/@napori)
 
 ### 皮肤
-![001](https://i0.hdslb.com/bfs/album/dba786b779ec0c71c3003446f780d7651033e832.png)
+![001](https://i0.hdslb.com/bfs/album/dba786b779ec0c71c3003446f780d7651033e832.png@128w_64h_1e_1c.webp)
 
 [**预览**](https://sasakiyy.github.io/mc-skinviewer/test/)
