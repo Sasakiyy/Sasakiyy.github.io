@@ -1,7 +1,7 @@
 ## 欢迎！（网站建设中）
 
-https://img.shields.io/badge/B站-NaporiYayo-F090B4
-https://img.shields.io/badge/爱发电-Napori-8C5C9D
+[https://img.shields.io/badge/B站-NaporiYayo-F090B4]
+[https://img.shields.io/badge/爱发电-Napori-8C5C9D]
 
 ### Markdown
 
