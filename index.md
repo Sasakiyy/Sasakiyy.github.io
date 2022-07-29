@@ -1,12 +1,12 @@
+# **进度**
 
 
-# **赞助**
+# **支持**
 
+**支付宝**
 
+![m_facetoface_collect_qrcode_1659074013775.png](https://pic.rmb.bdstatic.com/bjh/7d404252227b73b5f48aedea2631d806.png)
 
-# **B站**
+**微信**
 
-<iframe   src="https://space.bilibili.com/394214012" width="512" height="512"   frameborder="1/0"  name="B站"     scrolling="yes/no/auto">   
-
-</iframe>
-
+![mm_facetoface_collect_qrcode_1659074013775.png](https://pic.rmb.bdstatic.com/bjh/e4106f5d004396906a38f812dc41c7c7.png)
